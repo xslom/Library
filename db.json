@@ -1,1 +1,52 @@
-
+[  
+   {  
+      "id":"1",
+      "image":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      "title":"Coco"
+   },
+   {  
+      "id":"2",
+      "image":"http://velmm.com/images/bottom_navigationview/terminator_2.jpg",
+      "title":"Terminator 2: Judgment Day 3D"
+   },
+   {  
+      "id":"3",
+      "image":"http://velmm.com/images/bottom_navigationview/dunkirk.jpg",
+      "title":"Dunkirk"
+   },
+   {  
+      "id":"4",
+      "image":"http://velmm.com/images/bottom_navigationview/the_salesman.jpg",
+      "title":"The Salesman"
+   },
+   {  
+      "id":"5",
+      "image":"http://velmm.com/images/bottom_navigationview/lion.png",
+      "title":"Lion"
+   },
+   {  
+      "id":"6",
+      "image":"http://velmm.com/images/bottom_navigationview/star_war.jpg",
+      "title":"Star Wars: The Last Jedi"
+   },
+   {  
+      "id":"7",
+      "image":"http://velmm.com/images/bottom_navigationview/thor_ragnarok.jpg",
+      "title":"Thor: Ragnarok"
+   },
+   {  
+      "id":"8",
+      "image":"http://velmm.com/images/bottom_navigationview/blade_runner_2049.jpg",
+      "title":"Blade Runner 2049"
+   },
+   {  
+      "id":"9",
+      "image":"http://velmm.com/images/bottom_navigationview/borg_mcenroe.jpg",
+      "title":"Borg McEnroe"
+   },
+   {  
+      "id":"10",
+      "image":"http://velmm.com/images/bottom_navigationview/wonder.jpg",
+      "title":"Wonder"
+   }
+]
