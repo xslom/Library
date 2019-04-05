@@ -25,13 +25,17 @@
    },
    {  
       "id":"3",
-      "image":"http://velmm.com/images/bottom_navigationview/dunkirk.jpg",
-      "title":"Dunkirk",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/51psBDF3eZL.jpg"
+      "title":"Cold Waters",
      "have":{
-     "desc":"",
-     "wheretobuy":"",
-     "logo":"",
-     "Price":""
+     "desc":"Everyone thinks fourteen-year-old Violet is a murderer. After a summer-night swim with her best friend, Ainsley, Violet is found confused, wandering in the forest—and Ainsley’s never seen again. But without a body, murder charges won’t stick, so Violet is sent away.
+
+After more than a decade in a psychiatric ward, Violet returns to her broken-down hometown of Normal, Alabama, to claim her dead mother’s inheritance and help her overworked sister care for their unstable, alcoholic father. Violet, still haunted by that night eleven years ago, endures horrific flashbacks and twisted hallucinations while townsfolk spit accusations—and for all she knows, they’re right.
+
+As the summer heats up, details of Ainsley’s fate appear like a beast’s wild eyes, watching in the darkness, and grim revelations about Violet’s family threaten to devour her. Already on the edge of madness, Violet must fight to keep her sanity long enough for the terrible truth to burst from the cold, dark waters.",
+     "wheretobuy":"https://www.amazon.com/gp/product/B07HF4SCB7/ref=s9_acsd_ri_bw_c_x_1_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=KSH92A8Q6TBE2DQY04YR&pf_rd_t=101&pf_rd_p=c1698c9d-3c53-45d2-b536-8b2e50b21827&pf_rd_i=283155",
+     "logo":"https://media.glassdoor.com/sqll/515579/jarir-bookstore-squarelogo-1432271021077.png",
+     "Price":"7.99"
    
    }
    },
