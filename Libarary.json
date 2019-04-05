@@ -48,27 +48,29 @@
    
    }
    },
-   {  
+ {  
       "id":"5",
-      "image":"http://velmm.com/images/bottom_navigationview/lion.png",
-      "title":"Lion",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/41tmqEUIbSL.jpg",
+      "title":"Bad Blood: Secrets and Lies in a Silicon Valley Startup",
      "have":{
-     "desc":"",
-     "wheretobuy":"",
-     "logo":"",
-     "Price":""
+     "desc":"In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the female Steve Jobs: a brilliant Stanford dropout whose startup “unicorn” promised to revolutionize the medical industry with a machine that would make blood testing significantly faster and easier. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at more than $9 billion, putting Holmes’s worth at an estimated $4.7 billion. There was just one problem: The technology didn’t work.A riveting story of the biggest corporate fraud since Enron, a tale of ambition and hubris set amid the bold promises of Silicon Valley.",
+     "wheretobuy":"https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup-ebook/dp/B078VW3VM7/ref=pd_sim_0_5/140-5235506-4791036?_encoding=UTF8&pd_rd_i=B078VW3VM7&pd_rd_r=0cb914dd-57d4-11e9-ae93-bfc8ab14b226&pd_rd_w=Fcvyg&pd_rd_wg=wlBra&pf_rd_p=a098ee4c-2e0f-4821-b463-d4b049053104&pf_rd_r=67WJJZKWFSMS94C5D9CT&psc=1&refRID=67WJJZKWFSMS94C5D9CT",
+
+     "logo":"https://media.glassdoor.com/sqll/515579/jarir-bookstore-squarelogo-1432271021077.png",
+     "Price":"7.99"
    
    }
    },
-   {  
-      "id":"6",
-      "image":"http://velmm.com/images/bottom_navigationview/star_war.jpg",
-      "title":"Star Wars: The Last Jedi",
+  {  
+      "id":"5",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/418oH6YjpFL._SY346_.jpg",
+      "title":"Steve Jobs",
      "have":{
-     "desc":"",
-     "wheretobuy":"",
-     "logo":"",
-     "Price":""
+     "desc":"Based on more than forty interviews with Jobs conducted over two years—as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing.At a time when America is seeking ways to sustain its innovative edge, and when societies around the world are trying to build digital-age economies, Jobs stands as the ultimate icon of inventiveness and applied imagination. He knew that the best way to create value in the twenty-first century was to connect creativity with technology. He built a company where leaps of the imagination were combined with remarkable feats of engineering.  Although Jobs cooperated with this book, he asked for no control over what was written nor even the right to read it before it was published. He put nothing off-limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted.Driven by demons, Jobs could drive those around him to fury and despair. But his personality and products were interrelated, just as Apple’s hardware and software tended to be, as if part of an integrated system. His tale is instructive and cautionary, filled with lessons about innovation, character, leadership, and values.",
+     "wheretobuy":"https://www.amazon.com/Steve-Jobs-Walter-Isaacson-ebook/dp/B004W2UBYW/ref=pd_sim_0_4/140-5235506-4791036?_encoding=UTF8&pd_rd_i=B004W2UBYW&pd_rd_r=94a0a503-57d4-11e9-8ded-c79105bf1765&pd_rd_w=baFRG&pd_rd_wg=OlFI2&pf_rd_p=a098ee4c-2e0f-4821-b463-d4b049053104&pf_rd_r=T0X6X4CMSP66RMS73D27&psc=1&refRID=T0X6X4CMSP66RMS73D27",
+
+     "logo":"https://media.glassdoor.com/sqll/515579/jarir-bookstore-squarelogo-1432271021077.png",
+     "Price":"7.99"
    
    }
    },
