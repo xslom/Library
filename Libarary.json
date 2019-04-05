@@ -116,16 +116,18 @@
    }
    },
 
-   {  
+{  
       "id":"10",
-      "image":"http://velmm.com/images/bottom_navigationview/wonder.jpg",
-      "title":"Wonder",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/518jx3QyoML._SY346_.jpg",
+      "title":"How to Stop Procrastinating: A Simple Guide to Mastering Difficult Tasks and Breaking the Procrastination Habit",
      "have":{
-     "desc":"",
-     "wheretobuy":"",
-     "logo":"",
-     "Price":""
+     "desc":"The truth is: If you're someone who procrastinates, then this bad habit is limiting your success in a variety of ways. If you don't address this issue, then you'll reduce the likelihood that you'll achieve your major goals. Procrastination can lead to a variety of negative life-altering issues like: Bad grades; Poor job performance; Unhealthy diet choices; Health issues; Financial difficulties. That's why it's critical that you focus on eliminating your procrastination tendencies by building what's called The Anti-Procrastination Habit. How to Stop Procrastinating is a straight-forward, systematic framework for building an action-oriented habit through all the areas in your life. In this book, you will discover: 8 Specific Reasons Why People Procrastinate. The 25–5 Rule (and How It Can Help You Laser-Focus on What's Important) 6 Actions for Creating Actionable Goals That Motivate You How to Say No to People -- Without Looking Like a Jerk 5 Ways to Plan Your Week, So Procrastination is Never an Option 14 Daily Practices to Overcome Those Sudden Feelings of Procrastination Whether you're someone who lets the occasional task slip through the cracks or you always do things at the last minute, you'll discover an abundance of information to overcome your procrastination tendencies.",
+
+     "wheretobuy":"https://www.amazon.com/How-Stop-Procrastinating-Mastering-Procrastination-ebook/dp/B0742KRKDG/ref=pd_sim_0_4/140-5235506-4791036?_encoding=UTF8&pd_rd_i=B0742KRKDG&pd_rd_r=61b994bc-57da-11e9-80e7-29197d10ef60&pd_rd_w=ImyS2&pd_rd_wg=HcaPh&pf_rd_p=a098ee4c-2e0f-4821-b463-d4b049053104&pf_rd_r=WFCX5NQJWXD33MJMN003&psc=1&refRID=WFCX5NQJWXD33MJMN003",
+
+     "logo":"https://media.glassdoor.com/sqll/515579/jarir-bookstore-squarelogo-1432271021077.png",
+     "Price":"7.99"
    
    }
-   }
+   },
  ]
