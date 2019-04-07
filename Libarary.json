@@ -169,6 +169,34 @@
      "Price":"9.97"
    
    }
+   },
+   {  
+      "id":"14",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/41ASzYgz8rL.jpg",
+      "title":"Fantastic Voyage: Live Long Enough to Live Forever",
+     "have":{
+     "desc":" One of the most respected scientists and futurists in America teams up with an expert on human longevity, to show how we can tap today's revolution in biotechnology and nanotechnology to virtually live forever. Startling discoveries in the areas of genomics, biotechnology, and nanotechnology are occurring every day. The rewards of this research, some of it as spectacular as what was once thought of as science fiction, are practically in our grasp. Already it is possible to analyze our individual genetic makeups and evaluate our predisposition for breast cancer or other deadly diseases on a case-by-case basis. And once we've isolated these genes, the ability to repress or enhance them through biotechnology is just around the corner. Soon, for example, it will be feasible for 10% of our red blood cells to be replaced by artificial cells, radically extending our life expectancy and enhancing our physical and even mental abilities beyond what is humanly possible today. In Fantastic Voyage, Ray Kurzweil and Terry Grossman will show us how amazingly advanced we are in our medical technology, and how incredibly far each of us can go toward living as long as we dare imagine. With today's mind-bending array of scientific knowledge, it is possible to prevent nearly 90% of the maladies that kill us, including heart disease, cancer, diabetes, kidney disease, and liver disease. Ray Kurzweil and Terry Grossman start the reader on a fantastic journey to undreamed-of vitality with a comprehensive investigation into the cutting-edge science on diet, metabolism, genetics, toxins and detoxification, the hormones involved with aging and youth, exercise, stress reduction, and more. By following their program, which includes such simple recommendations as drinking alkaline water and taking specific nutritional supplements to enhance your immune system and slow the aging process on a cellular level, anyone will be able to immediately add years of healthy, active living to his life.",
+
+     "wheretobuy":"https://www.amazon.com/Fantastic-Voyage-Live-Enough-Forever-ebook/dp/B00CXK14D2/ref=pd_sim_0_4/140-5235506-4791036?_encoding=UTF8&pd_rd_i=B00CXK14D2&pd_rd_r=8a40a381-5884-11e9-aa0d-03b370e3d04a&pd_rd_w=zRoT5&pd_rd_wg=BlgyR&pf_rd_p=a098ee4c-2e0f-4821-b463-d4b049053104&pf_rd_r=P2MMMQ2S73M0B7WX36CK&psc=1&refRID=P2MMMQ2S73M0B7WX36CK",
+
+     "logo":"https://media.glassdoor.com/sqll/515579/jarir-bookstore-squarelogo-1432271021077.png",
+     "Price":"10.49"
+   
+   }
+   },
+   {  
+      "id":"15",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/519GevoA5YL._SX329_BO1,204,203,200_.jpg",
+      "title":"The Singularity Is Near: When Humans Transcend Biology",
+     "have":{
+     "desc":" For over three decades, Ray Kurzweil has been one of the most respected and provocative advocates of the role of technology in our future. In his classic The Age of Spiritual Machines, he argued that computers would soon rival the full range of human intelligence at its best. Now he examines the next step in this inexorable evolutionary process: the union of human and machine, in which the knowledge and skills embedded in our brains will be combined with the vastly greater capacity, speed, and knowledge-sharing ability of our creations.",
+
+     "wheretobuy":"https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology-ebook/dp/B000QCSA7C/ref=pd_sim_0_1/140-5235506-4791036?_encoding=UTF8&pd_rd_i=B000QCSA7C&pd_rd_r=ec4f25d2-5887-11e9-80e7-29197d10ef60&pd_rd_w=T9its&pd_rd_wg=GyJrF&pf_rd_p=a098ee4c-2e0f-4821-b463-d4b049053104&pf_rd_r=4RB40S1NCC70M855S37Z&psc=1&refRID=4RB40S1NCC70M855S37Z",
+
+     "logo":"https://media.glassdoor.com/sqll/515579/jarir-bookstore-squarelogo-1432271021077.png",
+     "Price":"15.74"
+   
+   }
    }
 
  ]
