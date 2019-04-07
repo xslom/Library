@@ -141,6 +141,20 @@
      "logo":"https://media.glassdoor.com/sqll/515579/jarir-bookstore-squarelogo-1432271021077.png",
      "Price":"12.17"
       }
+   },
+   {  
+      "id":"12",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/51mBTpekidL._SX327_BO1,204,203,200_.jpg",
+      "title":"Superintelligence: Paths, Dangers, Strategies",
+     "have":{
+     "desc":"The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. Other animals have stronger muscles or sharper claws, but we have cleverer brains. If machine brains one day come to surpass human brains in general intelligence, then this new superintelligence could become very powerful. As the fate of the gorillas now depends more on us humans than on the gorillas themselves, so the fate of our species then would come to depend on the actions of the machine superintelligence. But we have one advantage: we get to make the first move. Will it be possible to construct a seed AI or otherwise to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation? To get closer to an answer to this question, we must make our way through a fascinating landscape of topics and considerations. Read the book and learn about oracles, genies, singletons; about boxing methods, tripwires, and mind crime; about humanity's cosmic endowment and differential technological development; indirect normativity, instrumental convergence, whole brain emulation and technology couplings; Malthusian economics and dystopian evolution; artificial intelligence, and biological cognitive enhancement, and collective intelligence.This profoundly ambitious and original book picks its way carefully through a vast tract of forbiddingly difficult intellectual terrain. Yet the writing is so lucid that it somehow makes it all seem easy. After an utterly engrossing journey that takes us to the frontiers of thinking about the human condition and the future of intelligent life, we find in Nick Bostrom's work nothing less than a reconceptualization of the essential task of our time. ",
+
+     "wheretobuy":"https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/ref=pd_sim_0_6/140-5235506-4791036?_encoding=UTF8&pd_rd_i=B00LOOCGB2&pd_rd_r=1cf7c26a-5883-11e9-ba44-5b53f8bf2b96&pd_rd_w=pLaPV&pd_rd_wg=Wgbyn&pf_rd_p=a098ee4c-2e0f-4821-b463-d4b049053104&pf_rd_r=KZNAY83P0QD8RTWWR0Y5&psc=1&refRID=KZNAY83P0QD8RTWWR0Y5",
+
+     "logo":"https://media.glassdoor.com/sqll/515579/jarir-bookstore-squarelogo-1432271021077.png",
+     "Price":"6.49"
+   
+   }
    }
 
  ]
