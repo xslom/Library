@@ -4,7 +4,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class APIGuy {
-    public static String BASE_URL ="https://raw.githubusercontent.com/xslom/slom/";
+    public static String BASE_URL ="https://raw.githubusercontent.com/xslom/Library/";
     private static Retrofit retrofit;
     public static Retrofit getClient(){
         if(retrofit==null){
